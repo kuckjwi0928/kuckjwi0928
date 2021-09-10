@@ -1,20 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuckjwi0928&langs_count=100)](https://github-readme-stats.vercel.app/api/top-langs/?username=kuckjwi0928&langs_count=100)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 136 Contributions in the Year 2021
- > 
-> 📦 1.8 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text

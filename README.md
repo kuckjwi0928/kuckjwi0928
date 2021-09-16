@@ -63,3 +63,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 15/09/2021
 <!--END_SECTION:waka-->
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuckjwi)](https://solved.ac/kuckjwi)
+

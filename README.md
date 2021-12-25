@@ -1,7 +1,5 @@
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuckjwi)](https://solved.ac/kuckjwi)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2053%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text

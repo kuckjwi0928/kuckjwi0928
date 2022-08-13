@@ -1,4 +1,5 @@
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuckjwi)](https://solved.ac/kuckjwi)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kuckjwi0928/kuckjwi0928/blob/master/devcard.svg" width="400" alt="Kuckjwi Devcard"/></a>
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -37,3 +38,4 @@ Mac                      14 hrs 28 mins      ███████████�
 
  Last Updated on 22/07/2022 15:03:15 UTC
 <!--END_SECTION:waka-->
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuckjwi)](https://solved.ac/kuckjwi)

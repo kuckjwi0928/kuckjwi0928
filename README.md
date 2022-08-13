@@ -38,4 +38,3 @@ Mac                      14 hrs 28 mins      ███████████�
 
  Last Updated on 22/07/2022 15:03:15 UTC
 <!--END_SECTION:waka-->
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuckjwi)](https://solved.ac/kuckjwi)

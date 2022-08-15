@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kuckjwi0928/kuckjwi0928/blob/master/devcard.svg" width="400" alt="Kuckjwi Devcard"/></a>
+<a href="https://app.daily.dev/kuckhwancho"><img src="https://github.com/kuckjwi0928/kuckjwi0928/blob/master/devcard.svg" width="400" alt="Kuckjwi Devcard"/></a>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 

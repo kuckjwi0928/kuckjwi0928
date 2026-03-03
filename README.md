@@ -4,10 +4,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                186 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-🌆 Daytime                393 commits         ██████████░░░░░░░░░░░░░░░   38.72 % 
-🌃 Evening                420 commits         ██████████░░░░░░░░░░░░░░░   41.38 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+🌞 Morning                186 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+🌆 Daytime                393 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
+🌃 Evening                422 commits         ██████████░░░░░░░░░░░░░░░   41.49 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 
@@ -17,19 +17,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-YAML                     10 hrs 25 mins      █████████████░░░░░░░░░░░░   50.60 % 
-Terraform                4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-TypeScript               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Docker                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+YAML                     9 hrs 3 mins        █████████████░░░░░░░░░░░░   50.79 % 
+Terraform                4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+TypeScript               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Docker                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Cursor                   20 hrs 35 mins      █████████████████████████   100.00 % 
+Cursor                   17 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/03/2026 15:25:16 UTC
+ Last Updated on 03/03/2026 15:27:01 UTC
 <!--END_SECTION:waka-->

@@ -17,19 +17,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Terraform                3 hrs 17 mins       ██████████████░░░░░░░░░░░   55.95 % 
-YAML                     1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Markdown                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Terraform                3 hrs 17 mins       █████████████░░░░░░░░░░░░   50.55 % 
+YAML                     1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Go                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 52 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 52 mins       ███████████████████████░░   90.35 % 
+Antigravity              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 💻 Operating System: 
-Mac                      5 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 15:18:05 UTC
+ Last Updated on 29/03/2026 15:17:13 UTC
 <!--END_SECTION:waka-->

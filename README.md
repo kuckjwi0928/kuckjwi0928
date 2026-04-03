@@ -4,9 +4,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                187 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-🌆 Daytime                393 commits         ██████████░░░░░░░░░░░░░░░   38.61 % 
-🌃 Evening                422 commits         ██████████░░░░░░░░░░░░░░░   41.45 % 
+🌞 Morning                187 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+🌆 Daytime                393 commits         ██████████░░░░░░░░░░░░░░░   38.49 % 
+🌃 Evening                425 commits         ██████████░░░░░░░░░░░░░░░   41.63 % 
 🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
@@ -17,21 +17,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Terraform                8 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
-YAML                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Python                   3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Java                     3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Markdown                 2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Terraform                10 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   37.26 % 
+YAML                     4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Python                   4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Java                     3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Markdown                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 26 mins      ████████████████████░░░░░   81.13 % 
-Antigravity              3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Cursor                   25 hrs 3 mins       █████████████████████░░░░   85.38 % 
+Antigravity              3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+VS Code                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Mac                      22 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/04/2026 15:31:53 UTC
+ Last Updated on 03/04/2026 15:25:23 UTC
 <!--END_SECTION:waka-->

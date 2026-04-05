@@ -17,21 +17,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Terraform                9 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-Python                   4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Other                    3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Java                     3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-YAML                     3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Terraform                9 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+Java                     4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Python                   4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Other                    3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+YAML                     3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 
 🔥 Editors: 
-Cursor                   24 hrs 34 mins      █████████████████████░░░░   85.13 % 
-Antigravity              3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-VS Code                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Cursor                   24 hrs 34 mins      █████████████████████░░░░   84.60 % 
+Antigravity              3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+VS Code                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Mac                      28 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 15:18:27 UTC
+ Last Updated on 05/04/2026 15:18:21 UTC
 <!--END_SECTION:waka-->

@@ -4,10 +4,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                200 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                393 commits         ██████████░░░░░░░░░░░░░░░   38.01 % 
-🌃 Evening                425 commits         ██████████░░░░░░░░░░░░░░░   41.10 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+🌞 Morning                200 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+🌆 Daytime                393 commits         █████████░░░░░░░░░░░░░░░░   37.93 % 
+🌃 Evening                427 commits         ██████████░░░░░░░░░░░░░░░   41.22 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
@@ -17,20 +17,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 9 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
-Other                    5 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Terraform                5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-YAML                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 11 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   37.20 % 
+Other                    6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Terraform                4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+JSON                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+YAML                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-Cursor                   29 hrs 32 mins      ████████████████████████░   96.73 % 
-Unknown Editor           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Cursor                   31 hrs 43 mins      █████████████████████████   98.76 % 
+Unknown Editor           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Mac                      30 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 15:39:41 UTC
+ Last Updated on 21/04/2026 15:38:36 UTC
 <!--END_SECTION:waka-->

@@ -4,9 +4,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                201 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-🌆 Daytime                393 commits         █████████░░░░░░░░░░░░░░░░   37.86 % 
-🌃 Evening                428 commits         ██████████░░░░░░░░░░░░░░░   41.23 % 
+🌞 Morning                201 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+🌆 Daytime                394 commits         █████████░░░░░░░░░░░░░░░░   37.88 % 
+🌃 Evening                429 commits         ██████████░░░░░░░░░░░░░░░   41.25 % 
 🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
@@ -17,19 +17,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Markdown                 6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Terraform                4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-JSON                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Other                    4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Markdown                 4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Terraform                2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+JSON                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Cursor                   22 hrs 9 mins       █████████████████████████   100.00 % 
+Cursor                   16 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 15:47:14 UTC
+ Last Updated on 06/05/2026 15:58:07 UTC
 <!--END_SECTION:waka-->

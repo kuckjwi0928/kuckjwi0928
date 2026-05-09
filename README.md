@@ -17,19 +17,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Markdown                 5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-JSON                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Terraform                3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Python                   2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Markdown                 10 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   30.52 % 
+Other                    8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+JSON                     4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Terraform                3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Python                   2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-Cursor                   24 hrs 41 mins      █████████████████████████   100.00 % 
+Cursor                   33 hrs 7 mins       █████████████████████████   98.94 % 
+VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Mac                      24 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2026 15:42:39 UTC
+ Last Updated on 09/05/2026 15:31:11 UTC
 <!--END_SECTION:waka-->

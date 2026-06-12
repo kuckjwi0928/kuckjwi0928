@@ -17,22 +17,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    14 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.55 % 
-Terraform                10 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Markdown                 6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Text                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-YAML                     3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Other                    13 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Markdown                 9 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Terraform                9 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+YAML                     4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Text                     4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 33 mins      ████████████░░░░░░░░░░░░░   49.83 % 
-Cursor                   13 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Codex CLI                10 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Cursor                   20 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.82 % 
+VS Code                  17 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.37 % 
+Codex CLI                13 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      47 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 16:28:51 UTC
+ Last Updated on 12/06/2026 16:17:20 UTC
 <!--END_SECTION:waka-->

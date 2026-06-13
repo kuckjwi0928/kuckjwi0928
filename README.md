@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    13 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-Markdown                 9 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Terraform                9 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-YAML                     4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Text                     4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Other                    12 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Markdown                 10 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Terraform                10 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+YAML                     4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Text                     4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editors: 
-Cursor                   20 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.82 % 
-VS Code                  17 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.37 % 
-Codex CLI                13 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Cursor                   24 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.93 % 
+Codex CLI                14 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+VS Code                  10 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      51 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      49 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 16:17:20 UTC
+ Last Updated on 13/06/2026 15:43:19 UTC
 <!--END_SECTION:waka-->

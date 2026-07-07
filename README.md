@@ -17,21 +17,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    8 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Terraform                6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Markdown                 5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Text                     4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-YAML                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Other                    10 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Markdown                 8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Terraform                8 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Text                     4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+YAML                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 Editors: 
-Cursor                   20 hrs 23 mins      █████████████████░░░░░░░░   69.71 % 
-Codex CLI                8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Cursor                   26 hrs 48 mins      █████████████████░░░░░░░░   66.57 % 
+Codex CLI                13 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Antigravity CLI          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      29 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2026 17:36:35 UTC
+ Last Updated on 07/07/2026 17:08:04 UTC
 <!--END_SECTION:waka-->
